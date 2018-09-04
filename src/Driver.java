@@ -13,7 +13,6 @@ public class Driver {
     public static void main(String[] args) {
         Driver d = new Driver();
         System.out.println(d.getEmailFromURL());
-        System.out.println(d.getEmailFromURL());
     }
 
     public String getEmailFromURL() {
